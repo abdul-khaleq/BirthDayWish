@@ -537,7 +537,7 @@ button:focus{
 .text {
     margin: 0;
     padding: 0;
-    font-size: 35px;
+    /* font-size: 35px; */
     position: absolute;
     top: 80%;
     width: 100%;
